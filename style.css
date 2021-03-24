@@ -1,18 +1,23 @@
 body {
-    background-color: #32CD32 !important;
+    background: pink;
 }
 
-h1 {
-    color: pink;
-    text-align: center;
+body {
+    display: block;
+    margin: 8px;
+    margin-right: auto;
 }
 
-h3 {
-    color: pink;
-    text-align: center;
+html {
+    height: auto;
+    margin-right: auto;
 }
 
-p {
-    font-family: Verdana;
-    font: size 20px;
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
 }
