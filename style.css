@@ -23,3 +23,8 @@ img {
     height: 600;
     margin-right: auto;
 }
+
+body {
+    width: fit-content;
+    max-height: fit-content;
+}
