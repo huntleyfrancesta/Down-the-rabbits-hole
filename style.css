@@ -1,2 +1,8 @@
     body {
-    background: cyan
+        background: cyan;
+    }
+    
+    body {
+        display: pink;
+        margin: 10;
+    }
