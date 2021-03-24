@@ -1,8 +1,9 @@
     body {
-        background: cyan;
+        background: rgb(0, 255, 64);
     }
     
     body {
         display: pink;
-        margin: 10;
+        margin: 0 auto;
+        color: aqua;
     }
